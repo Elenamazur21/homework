@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{EB362DC2-E7D4-4440-A1D2-86A13C9D6168}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson3/Patient.cs">
+    <Files>
+      <File FileName="Lesson3/Program.cs" Line="28" Column="49" />
+      <File FileName="Lesson3/Patient.cs" Line="1" Column="1" />
+      <File FileName="Lesson3/Neurologist.cs" Line="41" Column="29" />
+      <File FileName="Lesson3/Therapist.cs" Line="31" Column="2" />
+      <File FileName="Lesson3/Ophthalmologist.cs" Line="1" Column="1" />
+      <File FileName="Lesson3/Icure.cs" Line="1" Column="1" />
+      <File FileName="Lesson3/Doctor.cs" Line="13" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson3" expanded="True">
+            <Node name="Lesson3" expanded="True">
+              <Node name="Patient.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lesson3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
