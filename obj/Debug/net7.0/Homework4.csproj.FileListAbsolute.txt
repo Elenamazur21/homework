@@ -1,0 +1,15 @@
+/Users/elenamazur/VS code/Homework4/bin/Debug/net7.0/Homework4
+/Users/elenamazur/VS code/Homework4/bin/Debug/net7.0/Homework4.deps.json
+/Users/elenamazur/VS code/Homework4/bin/Debug/net7.0/Homework4.runtimeconfig.json
+/Users/elenamazur/VS code/Homework4/bin/Debug/net7.0/Homework4.dll
+/Users/elenamazur/VS code/Homework4/bin/Debug/net7.0/Homework4.pdb
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.csproj.AssemblyReference.cache
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.AssemblyInfoInputs.cache
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.AssemblyInfo.cs
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.csproj.CoreCompileInputs.cache
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.dll
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/refint/Homework4.dll
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.pdb
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/Homework4.genruntimeconfig.cache
+/Users/elenamazur/VS code/Homework4/obj/Debug/net7.0/ref/Homework4.dll
